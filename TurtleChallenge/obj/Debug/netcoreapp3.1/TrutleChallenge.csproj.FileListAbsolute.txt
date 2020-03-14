@@ -1,0 +1,17 @@
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.exe
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.deps.json
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.runtimeconfig.json
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.runtimeconfig.dev.json
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.dll
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.pdb
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\obj\Debug\netcoreapp3.1\TrutleChallenge.AssemblyInfoInputs.cache
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\obj\Debug\netcoreapp3.1\TrutleChallenge.AssemblyInfo.cs
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\obj\Debug\netcoreapp3.1\TrutleChallenge.dll
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\obj\Debug\netcoreapp3.1\TrutleChallenge.pdb
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\obj\Debug\netcoreapp3.1\TrutleChallenge.csprojAssemblyReference.cache
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.Core.dll
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\TrutleChallenge.Core.pdb
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\obj\Debug\netcoreapp3.1\TrutleChallenge.csproj.CopyComplete
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\file.json
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge\bin\Debug\netcoreapp3.1\fileMoves.json

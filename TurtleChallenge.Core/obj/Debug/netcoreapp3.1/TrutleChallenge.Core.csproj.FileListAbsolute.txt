@@ -1,0 +1,7 @@
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\bin\Debug\netcoreapp3.1\TrutleChallenge.Core.deps.json
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\bin\Debug\netcoreapp3.1\TrutleChallenge.Core.dll
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\obj\Debug\netcoreapp3.1\TrutleChallenge.Core.AssemblyInfoInputs.cache
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\obj\Debug\netcoreapp3.1\TrutleChallenge.Core.AssemblyInfo.cs
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\bin\Debug\netcoreapp3.1\TrutleChallenge.Core.pdb
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\obj\Debug\netcoreapp3.1\TrutleChallenge.Core.dll
+C:\Users\jimfi\source\repos\TrutleChallenge\TrutleChallenge.Core\obj\Debug\netcoreapp3.1\TrutleChallenge.Core.pdb
